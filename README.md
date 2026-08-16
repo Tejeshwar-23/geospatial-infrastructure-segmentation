@@ -1,3 +1,5 @@
+Project done for IIT geospatial hackathon with https://github.com/Tejeshwar-23. https://github.com/Jash9876
+
 # Multi-Class Geospatial Semantic Segmentation using DeepLabV3+
 
 ## Infrastructure Mapping from Satellite Orthophotos using Deep Learning and GIS Integration
