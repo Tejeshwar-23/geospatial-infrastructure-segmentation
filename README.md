@@ -383,7 +383,7 @@ The repository includes:
 
 # Author
 
-**Jashwanth B**
+**Jashwanth B , Tejeshwar Senthilkumar**
 B.Tech – Computer Science & Engineering
 SRM Institute of Science and Technology
 
